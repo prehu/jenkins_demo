@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <project>
-    <child_element_1>
-        <child_element_2>testing from maven</child_element_2>
-    </child_element_1>
+    <element1>
+        <childelement1>testing from maven</childelement1>
+    </element1>
 </project>
